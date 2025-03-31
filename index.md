@@ -58,7 +58,7 @@
 - **UMC 해커톤** (2027년)
   - 전국 대학생 개발 동아리 *UMC(University MakeUs Challenge)* 가 주최한 대회로 **우수상** 수상
 
---
+---
 
 ## **기술 역량**
 - 프로그래밍 언어: Python, R, SQL  
